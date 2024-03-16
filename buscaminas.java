@@ -15,7 +15,7 @@
 * del juego y asi destapar casillas improbables de tener una mina o marcar
 * casillas cuya unica posibilidad es tener una mina. 
 *
-*@author NowHereMan
+*@author Cygnus000
 */
 public class buscaminas
 {
